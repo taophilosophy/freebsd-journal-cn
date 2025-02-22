@@ -262,3 +262,12 @@
 * [FreeBSD 桌面发行版](2020-0506/Desktop.md)
 * [使用 Poudriere 进行 Port 批量管理](2020-0506/Port.md)
 * [FreeBSD 的新面孔](2020-0506/Faces.md)
+
+## 2020-0304 文件系统
+
+* [OpenZFS 加密功能在 FreeBSD 中上线](2020-0304/OpenZFS.md)
+* [更新 FUSE 驱动程序](2020-0304/FUSE.md)
+* [谦卑的桥梁](2020-0304/Humble.md)
+* [FreeBSD 新面孔](2020-0304/Faces.md)
+* [FreeBSD 基金会项目开发进展：现代化工具链](2020-0304/Toolchain.md)
+* [会议报告：SCALE 18x](2020-0304/SCALESCAL.md)
